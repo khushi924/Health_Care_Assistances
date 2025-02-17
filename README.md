@@ -143,7 +143,7 @@ _In order to install the app you need to follow the instructions below :_
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/khushi924/Health_Care_Assistances.git
+  git clone https://github.com/khushi924/Health_Care_Assistances.git
    ```
 2. Install NPM packages dependencies 
    ```sh
